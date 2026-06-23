@@ -1,19 +1,17 @@
-class Solution:
-    def intersection(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        n,m = len(nums1), len(nums2)
-        res = set()
-        if n < m : 
-            hash_set = set(nums1)
-            for i in nums2 :
-                if i in hash_set :
-                    res.add(i)
-        else : 
-            hash_set = set(nums2)
-            for i in nums1 :
-                if i in hash_set :
-                    res.add(i)
+class Solution(object):
+    def intersection(self, nums1, nums2):
+        from collections import Counter
+        dic1=Counter(nums1)
+        dic2=Counter(nums2)
+        res=[]
+        for key,val in dic1.items():
+            if key in dic2:
+                res.append(key)
 
-        return list(res)
-
-        
+        return res
+        """
+        :type nums1: List[int]
+        :type nums2: List[int]
+        :rtype: List[int]
+        """
         
