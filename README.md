@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Desmode-yatharth/LeetCode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Desmode-yatharth/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Desmode-yatharth/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Desmode-yatharth/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Desmode-yatharth/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Desmode-yatharth/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
@@ -53,4 +55,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Desmode-yatharth/LeetCode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Desmode-yatharth/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
