@@ -12,7 +12,6 @@ class Solution(object):
                 hi = mid -1 
             else:
                 lo=mid+1
-
         return n - lo
 
 
