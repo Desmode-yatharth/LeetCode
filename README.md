@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Desmode-yatharth/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Desmode-yatharth/LeetCode/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Desmode-yatharth/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Desmode-yatharth/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -71,11 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Desmode-yatharth/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Desmode-yatharth/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Desmode-yatharth/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Desmode-yatharth/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Desmode-yatharth/LeetCode/tree/master/0327-count-of-range-sum) |
@@ -133,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Desmode-yatharth/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Desmode-yatharth/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Desmode-yatharth/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Desmode-yatharth/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
