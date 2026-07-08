@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Desmode-yatharth/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Desmode-yatharth/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Desmode-yatharth/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/Desmode-yatharth/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/Desmode-yatharth/LeetCode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Desmode-yatharth/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Desmode-yatharth/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Desmode-yatharth/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Desmode-yatharth/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Desmode-yatharth/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Binary Search
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Desmode-yatharth/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Desmode-yatharth/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Desmode-yatharth/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Desmode-yatharth/LeetCode/tree/master/0155-min-stack) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Desmode-yatharth/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/Desmode-yatharth/LeetCode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Desmode-yatharth/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
@@ -169,10 +173,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Desmode-yatharth/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/Desmode-yatharth/LeetCode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Desmode-yatharth/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## String
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Desmode-yatharth/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Greedy
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Desmode-yatharth/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
