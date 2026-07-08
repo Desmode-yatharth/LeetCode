@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Desmode-yatharth/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Desmode-yatharth/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Desmode-yatharth/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Desmode-yatharth/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Desmode-yatharth/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1901-find-a-peak-element-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Desmode-yatharth/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Desmode-yatharth/LeetCode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Desmode-yatharth/LeetCode/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Desmode-yatharth/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Desmode-yatharth/LeetCode/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Desmode-yatharth/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## String
 |  |
 | ------- |
