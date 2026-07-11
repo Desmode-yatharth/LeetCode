@@ -109,10 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Desmode-yatharth/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Desmode-yatharth/LeetCode/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Desmode-yatharth/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0445-add-two-numbers-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/0445-add-two-numbers-ii) |
 ## Linked List
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Desmode-yatharth/LeetCode/tree/master/0061-rotate-list) |
+| [0445-add-two-numbers-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/0445-add-two-numbers-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Desmode-yatharth/LeetCode/tree/master/0155-min-stack) |
+| [0445-add-two-numbers-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Desmode-yatharth/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/Desmode-yatharth/LeetCode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Desmode-yatharth/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
