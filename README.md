@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Desmode-yatharth/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Desmode-yatharth/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Desmode-yatharth/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1472-design-browser-history](https://github.com/Desmode-yatharth/LeetCode/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Desmode-yatharth/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Desmode-yatharth/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1901-find-a-peak-element-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/1901-find-a-peak-element-ii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/Desmode-yatharth/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Desmode-yatharth/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1472-design-browser-history](https://github.com/Desmode-yatharth/LeetCode/tree/master/1472-design-browser-history) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -173,11 +175,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Desmode-yatharth/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/Desmode-yatharth/LeetCode/tree/master/0739-daily-temperatures) |
+| [1472-design-browser-history](https://github.com/Desmode-yatharth/LeetCode/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Desmode-yatharth/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Desmode-yatharth/LeetCode/tree/master/0155-min-stack) |
+| [1472-design-browser-history](https://github.com/Desmode-yatharth/LeetCode/tree/master/1472-design-browser-history) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -192,4 +196,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Desmode-yatharth/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Desmode-yatharth/LeetCode/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Desmode-yatharth/LeetCode/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
