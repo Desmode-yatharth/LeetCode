@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/Desmode-yatharth/LeetCode/tree/master/0577-employee-bonus) |
 | [1068-product-sales-analysis-i](https://github.com/Desmode-yatharth/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/Desmode-yatharth/LeetCode/tree/master/1148-article-views-i) |
+| [1280-students-and-examinations](https://github.com/Desmode-yatharth/LeetCode/tree/master/1280-students-and-examinations) |
 | [1683-invalid-tweets](https://github.com/Desmode-yatharth/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Desmode-yatharth/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Stack
