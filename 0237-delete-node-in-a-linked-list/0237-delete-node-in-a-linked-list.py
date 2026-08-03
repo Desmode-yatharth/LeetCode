@@ -6,16 +6,9 @@
 
 class Solution:
     def deleteNode(self, node):
-        prev,curr = None,node
-
-        while curr.next :
-            nxt_node = curr.next
-            curr.val = nxt_node.val
-            prev = curr
-            curr = nxt_node
-        
-        prev.next = None
-        
+        curr,nxt = node,node.next
+        curr.val = nxt.val
+        curr.next = nxt.next
         """
         :type node: ListNode
         :rtype: void Do not return anything, modify node in-place instead.
