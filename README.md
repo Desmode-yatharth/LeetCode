@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Desmode-yatharth/LeetCode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Desmode-yatharth/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Desmode-yatharth/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/Desmode-yatharth/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Desmode-yatharth/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
