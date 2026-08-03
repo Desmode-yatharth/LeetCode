@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Desmode-yatharth/LeetCode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Desmode-yatharth/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/Desmode-yatharth/LeetCode/tree/master/0086-partition-list) |
 | [0189-rotate-array](https://github.com/Desmode-yatharth/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Desmode-yatharth/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Desmode-yatharth/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Desmode-yatharth/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Desmode-yatharth/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/Desmode-yatharth/LeetCode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Desmode-yatharth/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0445-add-two-numbers-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/0445-add-two-numbers-ii) |
