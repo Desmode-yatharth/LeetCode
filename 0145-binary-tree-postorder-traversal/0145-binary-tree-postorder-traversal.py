@@ -9,17 +9,16 @@ class Solution:
         if not root : return []
 
         stk = [root]
-        res = []
-        
-        # Preorder : root , left , right 
-            # The stack append order is right first and the left
-        # Reverse Preorder : right , left , root 
-        # Postorder : left , right , root
+        inter,res = [] ,[]
 
-        while stk:
+        while stk :
             node = stk.pop()
             res.append(node.val)
-            if node.left : stk.append(node.left)
-            if node.right : stk.append(node.right)  
 
-        return res[::-1]
+            if node.left : stk.append(node.left)
+            if node.right : stk.append(node.right)
+
+        while res :
+            inter.append(res.pop())
+
+        return inter
