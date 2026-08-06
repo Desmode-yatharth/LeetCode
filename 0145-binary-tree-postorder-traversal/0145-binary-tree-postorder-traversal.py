@@ -9,7 +9,7 @@ class Solution:
         if not root : return []
 
         stk = [root]
-        inter,res = [] ,[]
+        res = [] 
 
         while stk :
             node = stk.pop()
@@ -18,7 +18,13 @@ class Solution:
             if node.left : stk.append(node.left)
             if node.right : stk.append(node.right)
 
-        while res :
-            inter.append(res.pop())
+        p1 , p2 = 0, len(res) - 1
+
+        while p1 < p2 :
+            res[p1],res[p2] = res[p2],res[p1]
+            p1 += 1
+            p2 -= 1
+
+        return res
 
         return inter
