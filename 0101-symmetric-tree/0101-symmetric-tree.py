@@ -9,7 +9,6 @@ class Solution:
     def isSymmetric(self, root: Optional[TreeNode]) -> bool:
 
         que = deque([root])
-        res = []
 
         while que:
             lvl , l_check = [],len(que)
@@ -21,8 +20,5 @@ class Solution:
                 lvl.append(node.val)
                 que.append(node.left)
                 que.append(node.right)
-            res.append(lvl)
-        
-        for i in res:
-            if i != i[::-1]: return False
+            if lvl != lvl[::-1]: return False
         return True
