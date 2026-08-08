@@ -6,17 +6,27 @@
 #         self.right = right
 class Solution:
     def rangeSumBST(self, root: Optional[TreeNode], low: int, high: int) -> int:
-        if not root : return 0
+        if not root:
+            return 0
 
-        range_sum = 0
-        stk , curr = [],root
+        stk = [root]
+        res = 0
 
-        while stk or curr:
-            while curr :
-                stk.append(curr)
-                curr = curr.left
-            curr = stk.pop()
-            if curr.val in range(low,high + 1): range_sum += curr.val  
-            curr = curr.right
-        return range_sum
+        while stk:
+            node = stk.pop()
+            if not node:
+                continue
+
+            # include if in range
+            if low <= node.val <= high:
+                res += node.val
+
+            # BST pruning
+            if node.val > low:
+                stk.append(node.left)
+            if node.val < high:
+                stk.append(node.right)
+        return res
+        
+
         
