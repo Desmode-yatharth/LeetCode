@@ -1,15 +1,21 @@
 class Solution:
     def buildTree(self, preorder: List[int], inorder: List[int]) -> Optional[TreeNode]:
-        if not preorder or not inorder:
-            return None
+        idx_map = {val: i for i, val in enumerate(inorder)}  # O(n) once, upfront
+        self.pre_idx = 0  # tracks position in preorder as we consume it
 
-        root_val = preorder[0]
-        root = TreeNode(root_val)
+        def build(in_left, in_right):
+            if in_left > in_right:
+                return None
 
-        k = inorder.index(root_val)
-        n = k  # number of nodes in left subtree
+            root_val = preorder[self.pre_idx]
+            self.pre_idx += 1
+            root = TreeNode(root_val)
 
-        root.left = self.buildTree(preorder[1:1+n], inorder[:k])
-        root.right = self.buildTree(preorder[1+n:], inorder[k+1:])
+            mid = idx_map[root_val]
 
-        return root
+            root.left = build(in_left, mid - 1)
+            root.right = build(mid + 1, in_right)
+
+            return root
+
+        return build(0, len(inorder) - 1)
