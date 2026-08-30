@@ -7,13 +7,13 @@
 class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
         if not root : return 0
-
+        max_depth = float('-inf')
         stk = [(root,1)]
-        max_d = -1
         while stk:
-            node , depth = stk.pop()
-            max_d = max(max_d,depth)
-            if node.right : stk.append((node.right,depth + 1))
-            if node.left : stk.append((node.left,depth + 1))
-        return max_d
+            node,dep = stk.pop()
+            max_depth = max(max_depth,dep)
+            if node.right : stk.append((node.right,dep+1))
+            if node.left : stk.append((node.left,dep+1))
 
+        return max_depth
+        
