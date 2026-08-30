@@ -4,24 +4,21 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
         if not root : return False
+        prev_val = float('-inf')
 
-        stk , curr = [] , root
-        res = []
+        stk,curr = [],root
         while stk or curr :
-            while curr :
+            while curr:
                 stk.append(curr)
                 curr = curr.left
-            curr = stk.pop()
-            res.append(curr.val)
-            if len(res) > 1 and res[-1] <= res[-2]: return False
 
+            curr = stk.pop()
+            if prev_val >= curr.val : return False
+            prev_val = curr.val
             curr = curr.right
 
-        return True
-
-
         
+        return True
