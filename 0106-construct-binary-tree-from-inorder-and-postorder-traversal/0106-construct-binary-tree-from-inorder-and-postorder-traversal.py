@@ -7,22 +7,25 @@
 class Solution:
     def buildTree(self, inorder: List[int], postorder: List[int]) -> Optional[TreeNode]:
         if not inorder or not postorder : return None
-        self.idx_map = {val : i for i,val in enumerate(inorder)}
+        self.idx_map = {val:i for i,val in enumerate(inorder)}
         self.post_idx = len(postorder) - 1
 
-        def build(left_idx,right_idx):
-            if left_idx > right_idx : return None
+        def build(left_in,right_in):
+            if left_in > right_in : return None
 
-            node_v = postorder[self.post_idx]
+            root_val = postorder[self.post_idx]
             self.post_idx -= 1
-            node = TreeNode(node_v)
-            mid = self.idx_map[node_v]
+            root = TreeNode(root_val)
 
-            node.right = build(mid + 1, right_idx)
-            node.left = build(left_idx , mid - 1)
+            mid = self.idx_map[root_val]
 
-            return node
-        return build(0,len(inorder) - 1)
             
+            root.right = build(mid + 1,right_in)
+            root.left = build(left_in,mid - 1)
+            
+            return root
+
+        return build(0,len(postorder) - 1)
+
 
         
