@@ -16,7 +16,7 @@ class Solution:
                     stk.append(curr)
                     curr = curr.left
                 curr = stk.pop()
-                res.append(curr.val)
+                res.append(curr)
                 curr = curr.right
 
             return res
@@ -28,7 +28,7 @@ class Solution:
 
             mid = l_idx + (r_idx - l_idx)//2
 
-            root = TreeNode(self.inord[mid])
+            root = self.inord[mid]
             root.left = reconst(l_idx,mid-1)
             root.right = reconst(mid+1,r_idx)
 
