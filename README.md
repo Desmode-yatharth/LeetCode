@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Desmode-yatharth/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/Desmode-yatharth/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Desmode-yatharth/LeetCode/tree/master/0278-first-bad-version) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Desmode-yatharth/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Desmode-yatharth/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Desmode-yatharth/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Desmode-yatharth/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Desmode-yatharth/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Desmode-yatharth/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Desmode-yatharth/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Desmode-yatharth/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Desmode-yatharth/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Desmode-yatharth/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Desmode-yatharth/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Desmode-yatharth/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Desmode-yatharth/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Desmode-yatharth/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
