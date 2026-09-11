@@ -416,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Desmode-yatharth/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Desmode-yatharth/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/Desmode-yatharth/LeetCode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
