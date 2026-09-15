@@ -1,25 +1,24 @@
 class Solution:
     def findCircleNum(self, isConnected: List[List[int]]) -> int:
-        self.visit = set()
-
-        def dfs(r):
-            stk = [r]
+        n = len(isConnected)
+        visit =[0]*(n)
+        prov = 0
+        
+        def dfs(node):
+            stk = [node]
             while stk :
                 node = stk.pop()
-                
-                if node in self.visit: continue
-                self.visit.add(node)
-                
-                for n in range(len(isConnected)):
-                    if isConnected[node][n] == 1 and n not in self.visit :
-                        stk.append(n)
+                if visit[node] != 0 : continue
+                visit[node] = 1
+                for neig in range(n):
+                    if visit[neig] == 0 and isConnected[node][neig] == 1:
+                        stk.append(neig)
+
+        for i in range(n) :
+            if visit[i] == 0 :
+                prov += 1
+                dfs(i)
 
 
-
-        prov = 0
-        for r in range(len(isConnected)):
-                if r not in self.visit : 
-                    dfs(r)
-                    prov += 1
-
+        
         return prov
