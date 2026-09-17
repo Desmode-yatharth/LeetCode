@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Desmode-yatharth/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Desmode-yatharth/LeetCode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Desmode-yatharth/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/Desmode-yatharth/LeetCode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Desmode-yatharth/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/Desmode-yatharth/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Desmode-yatharth/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Desmode-yatharth/LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/Desmode-yatharth/LeetCode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Desmode-yatharth/LeetCode/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Desmode-yatharth/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Interactive
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Desmode-yatharth/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/Desmode-yatharth/LeetCode/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/Desmode-yatharth/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+| [0994-rotting-oranges](https://github.com/Desmode-yatharth/LeetCode/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Desmode-yatharth/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
