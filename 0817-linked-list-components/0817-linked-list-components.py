@@ -8,13 +8,11 @@ class Solution:
         if not head or len(nums) == 0 : return 0
         if len(nums) == 1 : return 1
 
-        p1,curr,prev = 0,head,None
+        curr,prev = head,None
         check_set = set(nums)
         connect = 0
         while curr :
-            if not prev and curr.val in check_set : connect += 1
-            elif prev and curr.val in check_set and prev.val not in check_set:
-                connect += 1
+            if curr.val in check_set and (prev is None or prev.val not in check_set):   connect += 1
             prev = curr
             curr = curr.next
             
