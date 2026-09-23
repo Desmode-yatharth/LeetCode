@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Desmode-yatharth/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/Desmode-yatharth/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Desmode-yatharth/LeetCode/tree/master/0739-daily-temperatures) |
+| [0817-linked-list-components](https://github.com/Desmode-yatharth/LeetCode/tree/master/0817-linked-list-components) |
 | [0875-koko-eating-bananas](https://github.com/Desmode-yatharth/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/Desmode-yatharth/LeetCode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Desmode-yatharth/LeetCode/tree/master/0997-find-the-town-judge) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Desmode-yatharth/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0349-intersection-of-two-arrays](https://github.com/Desmode-yatharth/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0817-linked-list-components](https://github.com/Desmode-yatharth/LeetCode/tree/master/0817-linked-list-components) |
 | [0997-find-the-town-judge](https://github.com/Desmode-yatharth/LeetCode/tree/master/0997-find-the-town-judge) |
 ## Sorting
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Desmode-yatharth/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/Desmode-yatharth/LeetCode/tree/master/0725-split-linked-list-in-parts) |
+| [0817-linked-list-components](https://github.com/Desmode-yatharth/LeetCode/tree/master/0817-linked-list-components) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Desmode-yatharth/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1472-design-browser-history](https://github.com/Desmode-yatharth/LeetCode/tree/master/1472-design-browser-history) |
 | [1669-merge-in-between-linked-lists](https://github.com/Desmode-yatharth/LeetCode/tree/master/1669-merge-in-between-linked-lists) |
