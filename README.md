@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Desmode-yatharth/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Desmode-yatharth/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Desmode-yatharth/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Hash Table
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Desmode-yatharth/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Desmode-yatharth/LeetCode/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Desmode-yatharth/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Desmode-yatharth/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0445-add-two-numbers-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Desmode-yatharth/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Desmode-yatharth/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Desmode-yatharth/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Desmode-yatharth/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Desmode-yatharth/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Greedy
