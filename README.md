@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Desmode-yatharth/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Desmode-yatharth/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Desmode-yatharth/LeetCode/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Desmode-yatharth/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Desmode-yatharth/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Desmode-yatharth/LeetCode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Desmode-yatharth/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Desmode-yatharth/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 ## Binary Indexed Tree
@@ -491,4 +493,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Desmode-yatharth/LeetCode/tree/master/0785-is-graph-bipartite) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Desmode-yatharth/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
