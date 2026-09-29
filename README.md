@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Desmode-yatharth/LeetCode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Desmode-yatharth/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Desmode-yatharth/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/Desmode-yatharth/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0938-range-sum-of-bst](https://github.com/Desmode-yatharth/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1254-number-of-closed-islands](https://github.com/Desmode-yatharth/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1382-balance-a-binary-search-tree](https://github.com/Desmode-yatharth/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Desmode-yatharth/LeetCode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Desmode-yatharth/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Desmode-yatharth/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/Desmode-yatharth/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Desmode-yatharth/LeetCode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/Desmode-yatharth/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Desmode-yatharth/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Desmode-yatharth/LeetCode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Desmode-yatharth/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Desmode-yatharth/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/Desmode-yatharth/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0997-find-the-town-judge](https://github.com/Desmode-yatharth/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Desmode-yatharth/LeetCode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Desmode-yatharth/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -497,4 +500,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Desmode-yatharth/LeetCode/tree/master/0070-climbing-stairs) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Desmode-yatharth/LeetCode/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Desmode-yatharth/LeetCode/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Desmode-yatharth/LeetCode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
