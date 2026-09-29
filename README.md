@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Desmode-yatharth/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/Desmode-yatharth/LeetCode/tree/master/0739-daily-temperatures) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Desmode-yatharth/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1472-design-browser-history](https://github.com/Desmode-yatharth/LeetCode/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Desmode-yatharth/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Desmode-yatharth/LeetCode/tree/master/0020-valid-parentheses) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Desmode-yatharth/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Desmode-yatharth/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Desmode-yatharth/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Desmode-yatharth/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Greedy
 |  |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Desmode-yatharth/LeetCode/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Desmode-yatharth/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Graph Coloring
 |  |
 | ------- |
