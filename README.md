@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Desmode-yatharth/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Desmode-yatharth/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1901-find-a-peak-element-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Desmode-yatharth/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Desmode-yatharth/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Desmode-yatharth/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Desmode-yatharth/LeetCode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/Desmode-yatharth/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1901-find-a-peak-element-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Desmode-yatharth/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Desmode-yatharth/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Interactive
 |  |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Desmode-yatharth/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Desmode-yatharth/LeetCode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/Desmode-yatharth/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Desmode-yatharth/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Desmode-yatharth/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
