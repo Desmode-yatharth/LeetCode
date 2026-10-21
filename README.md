@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Desmode-yatharth/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0349-intersection-of-two-arrays](https://github.com/Desmode-yatharth/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0791-custom-sort-string](https://github.com/Desmode-yatharth/LeetCode/tree/master/0791-custom-sort-string) |
 | [0817-linked-list-components](https://github.com/Desmode-yatharth/LeetCode/tree/master/0817-linked-list-components) |
 | [0997-find-the-town-judge](https://github.com/Desmode-yatharth/LeetCode/tree/master/0997-find-the-town-judge) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Desmode-yatharth/LeetCode/tree/master/3335-total-characters-in-string-after-transformations-i) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Desmode-yatharth/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Desmode-yatharth/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0791-custom-sort-string](https://github.com/Desmode-yatharth/LeetCode/tree/master/0791-custom-sort-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Desmode-yatharth/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Desmode-yatharth/LeetCode/tree/master/0067-add-binary) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Desmode-yatharth/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Desmode-yatharth/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0791-custom-sort-string](https://github.com/Desmode-yatharth/LeetCode/tree/master/0791-custom-sort-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Desmode-yatharth/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Desmode-yatharth/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Desmode-yatharth/LeetCode/tree/master/3335-total-characters-in-string-after-transformations-i) |
