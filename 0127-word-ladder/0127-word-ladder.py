@@ -10,7 +10,6 @@ class Solution:
             word,lvl = q.popleft()
             if word == endWord : return lvl
             for idx in range(len(word)):
-                ori_char = word[idx]
                 for char in range(ord('a'),ord('z') + 1):
                     chars = list(word)
                     chars[idx] = chr(char)
