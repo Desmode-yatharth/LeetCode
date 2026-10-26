@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Desmode-yatharth/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/Desmode-yatharth/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Desmode-yatharth/LeetCode/tree/master/0739-daily-temperatures) |
+| [0752-open-the-lock](https://github.com/Desmode-yatharth/LeetCode/tree/master/0752-open-the-lock) |
 | [0817-linked-list-components](https://github.com/Desmode-yatharth/LeetCode/tree/master/0817-linked-list-components) |
 | [0875-koko-eating-bananas](https://github.com/Desmode-yatharth/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/Desmode-yatharth/LeetCode/tree/master/0994-rotting-oranges) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Desmode-yatharth/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0349-intersection-of-two-arrays](https://github.com/Desmode-yatharth/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0752-open-the-lock](https://github.com/Desmode-yatharth/LeetCode/tree/master/0752-open-the-lock) |
 | [0791-custom-sort-string](https://github.com/Desmode-yatharth/LeetCode/tree/master/0791-custom-sort-string) |
 | [0817-linked-list-components](https://github.com/Desmode-yatharth/LeetCode/tree/master/0817-linked-list-components) |
 | [0997-find-the-town-judge](https://github.com/Desmode-yatharth/LeetCode/tree/master/0997-find-the-town-judge) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Desmode-yatharth/LeetCode/tree/master/0127-word-ladder) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Desmode-yatharth/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Desmode-yatharth/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0752-open-the-lock](https://github.com/Desmode-yatharth/LeetCode/tree/master/0752-open-the-lock) |
 | [0791-custom-sort-string](https://github.com/Desmode-yatharth/LeetCode/tree/master/0791-custom-sort-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Desmode-yatharth/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Desmode-yatharth/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Desmode-yatharth/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/Desmode-yatharth/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Desmode-yatharth/LeetCode/tree/master/0743-network-delay-time) |
+| [0752-open-the-lock](https://github.com/Desmode-yatharth/LeetCode/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/Desmode-yatharth/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Desmode-yatharth/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Desmode-yatharth/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
@@ -568,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Desmode-yatharth/LeetCode/tree/master/0127-word-ladder) |
+| [0752-open-the-lock](https://github.com/Desmode-yatharth/LeetCode/tree/master/0752-open-the-lock) |
 ## Shortest Path
 |  |
 | ------- |
