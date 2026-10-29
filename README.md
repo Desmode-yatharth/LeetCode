@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Desmode-yatharth/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Desmode-yatharth/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1254-number-of-closed-islands](https://github.com/Desmode-yatharth/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1306-jump-game-iii](https://github.com/Desmode-yatharth/LeetCode/tree/master/1306-jump-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Desmode-yatharth/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/Desmode-yatharth/LeetCode/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Desmode-yatharth/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Desmode-yatharth/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0938-range-sum-of-bst](https://github.com/Desmode-yatharth/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1254-number-of-closed-islands](https://github.com/Desmode-yatharth/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1306-jump-game-iii](https://github.com/Desmode-yatharth/LeetCode/tree/master/1306-jump-game-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/Desmode-yatharth/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Desmode-yatharth/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Desmode-yatharth/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Desmode-yatharth/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Desmode-yatharth/LeetCode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/Desmode-yatharth/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1306-jump-game-iii](https://github.com/Desmode-yatharth/LeetCode/tree/master/1306-jump-game-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Desmode-yatharth/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Desmode-yatharth/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Desmode-yatharth/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
