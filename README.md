@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/Desmode-yatharth/LeetCode/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Desmode-yatharth/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1631-path-with-minimum-effort](https://github.com/Desmode-yatharth/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1654-minimum-jumps-to-reach-home](https://github.com/Desmode-yatharth/LeetCode/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Desmode-yatharth/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1901-find-a-peak-element-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Desmode-yatharth/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/Desmode-yatharth/LeetCode/tree/master/0791-custom-sort-string) |
 | [0817-linked-list-components](https://github.com/Desmode-yatharth/LeetCode/tree/master/0817-linked-list-components) |
 | [0997-find-the-town-judge](https://github.com/Desmode-yatharth/LeetCode/tree/master/0997-find-the-town-judge) |
+| [1654-minimum-jumps-to-reach-home](https://github.com/Desmode-yatharth/LeetCode/tree/master/1654-minimum-jumps-to-reach-home) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Desmode-yatharth/LeetCode/tree/master/3335-total-characters-in-string-after-transformations-i) |
 ## Sorting
 |  |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Desmode-yatharth/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Desmode-yatharth/LeetCode/tree/master/1306-jump-game-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Desmode-yatharth/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1654-minimum-jumps-to-reach-home](https://github.com/Desmode-yatharth/LeetCode/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Desmode-yatharth/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Desmode-yatharth/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
