@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/Desmode-yatharth/LeetCode/tree/master/0752-open-the-lock) |
 | [0817-linked-list-components](https://github.com/Desmode-yatharth/LeetCode/tree/master/0817-linked-list-components) |
 | [0875-koko-eating-bananas](https://github.com/Desmode-yatharth/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0949-largest-time-for-given-digits](https://github.com/Desmode-yatharth/LeetCode/tree/master/0949-largest-time-for-given-digits) |
 | [0994-rotting-oranges](https://github.com/Desmode-yatharth/LeetCode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Desmode-yatharth/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/Desmode-yatharth/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/Desmode-yatharth/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0752-open-the-lock](https://github.com/Desmode-yatharth/LeetCode/tree/master/0752-open-the-lock) |
 | [0791-custom-sort-string](https://github.com/Desmode-yatharth/LeetCode/tree/master/0791-custom-sort-string) |
+| [0949-largest-time-for-given-digits](https://github.com/Desmode-yatharth/LeetCode/tree/master/0949-largest-time-for-given-digits) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Desmode-yatharth/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Desmode-yatharth/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Desmode-yatharth/LeetCode/tree/master/3335-total-characters-in-string-after-transformations-i) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Desmode-yatharth/LeetCode/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/0113-path-sum-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/Desmode-yatharth/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+| [0949-largest-time-for-given-digits](https://github.com/Desmode-yatharth/LeetCode/tree/master/0949-largest-time-for-given-digits) |
 ## DP on Trees
 |  |
 | ------- |
@@ -611,4 +614,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Desmode-yatharth/LeetCode/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/Desmode-yatharth/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Desmode-yatharth/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Enumeration
+|  |
+| ------- |
+| [0949-largest-time-for-given-digits](https://github.com/Desmode-yatharth/LeetCode/tree/master/0949-largest-time-for-given-digits) |
 <!---LeetCode Topics End-->
