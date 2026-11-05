@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/Desmode-yatharth/LeetCode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Desmode-yatharth/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Desmode-yatharth/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/Desmode-yatharth/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Desmode-yatharth/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Desmode-yatharth/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Desmode-yatharth/LeetCode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Desmode-yatharth/LeetCode/tree/master/0067-add-binary) |
 | [0127-word-ladder](https://github.com/Desmode-yatharth/LeetCode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/Desmode-yatharth/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Desmode-yatharth/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Desmode-yatharth/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0752-open-the-lock](https://github.com/Desmode-yatharth/LeetCode/tree/master/0752-open-the-lock) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Desmode-yatharth/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Desmode-yatharth/LeetCode/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/Desmode-yatharth/LeetCode/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/Desmode-yatharth/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0797-all-paths-from-source-to-target](https://github.com/Desmode-yatharth/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0949-largest-time-for-given-digits](https://github.com/Desmode-yatharth/LeetCode/tree/master/0949-largest-time-for-given-digits) |
 ## DP on Trees
